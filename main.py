@@ -1,0 +1,5 @@
+print("Hello, Class!")
+print(" hi my name is nehan")
+print("im 14 years old")
+print("i like to play video games")
+print("i also like to play sports")
